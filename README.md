@@ -1,11 +1,15 @@
-### Eu sou homem de ferro 🤖(Italo Nobre)
-
-- 🔭 No momento em busca do primeiro trabalho na área.
-- 🌱 Estou estudando TypeScript e MySql.
-- 📫 Contate-me no email : italohenriquenobreeoq@gmail.com.
-
-##
-
+<div >
+ <img align="right" width="15%"  alt="iron-man" src="https://media.giphy.com/media/Q3pp9Y6LxBvoI/giphy.gif">
+ ### Eu sou homem de ferro 🤖(Italo Nobre)
+  
+  
+  - 🔭 No momento em busca do primeiro trabalho na área.
+  - 🌱 Estou estudando TypeScript e MySql.
+  - 📫 Contate-me no email : italohenriquenobreeoq@gmail.com. 
+</div>
+<br>
+<br>
+<br>
  <div>
   <a href="https://github.com/italohsn">
     <img  width="52%" src="https://github-readme-stats.vercel.app/api?username=italohsn&count_private=true&show_icons=true&theme=codeSTACKr&include_all_commits=true)]"/>
@@ -22,7 +26,7 @@
    <img align="center" alt="Italo-mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="Italo-postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img align="center" alt="Italo-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-   <img align="center" alt="Italo-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />   
+   <img align="center" alt="Italo-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </div>
  
  ##
@@ -33,4 +37,7 @@
  <a href="https://www.linkedin.com/in/italo-nobre-697a7023a/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
+
+
+
  
